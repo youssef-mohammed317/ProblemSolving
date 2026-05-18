@@ -1,5 +1,11 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Project Path="kyu_6/kyu_6.csproj" Id="bd242ab2-bdd3-4d3a-9e5b-4ab0eff93185" />
   <Project Path="kyu_7/kyu_7.csproj" />
+  <Project Path="kyu_7_cpp/kyu_7_cpp.vcxproj" Id="79b45ed0-446e-4960-894a-b3f7a413cbea" />
   <Project Path="kyu_8/kyu_8.csproj" />
 </Solution>
