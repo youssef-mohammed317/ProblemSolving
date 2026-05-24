@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using kyu_8.Algorithms;
+
+//Console.WriteLine(Draw_stairs.DrawStairs(7));
+Console.WriteLine(Expressions_Matter.ExpressionsMatter(1,2,3));
