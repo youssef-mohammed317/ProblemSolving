@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace kyu_8.Strings;
+
+internal class Reversed_Strings
+{
+    public static string Solution(string str)
+    {
+        return string.Concat(str.ToCharArray().Reverse());
+    }
+}
