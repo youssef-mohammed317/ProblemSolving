@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace kyu_7.Array;
+namespace kyu_7.Arrays;
 
 internal class CreditCardMask
 {

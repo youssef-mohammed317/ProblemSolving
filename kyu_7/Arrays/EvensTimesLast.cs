@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace kyu_7.Array;
+namespace kyu_7.Arrays;
 
 internal class EvensTimesLast
 {
